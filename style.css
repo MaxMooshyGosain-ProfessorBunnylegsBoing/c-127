@@ -1,0 +1,70 @@
+body
+{
+    background-size: cover;
+}
+
+.heading
+{
+    width: 100%;
+    margin: 0px;
+    font-size: 20px;
+    border-radius: 20px;
+}
+
+.note
+{
+    color: blueviolet;
+    font-size: 20px;
+}
+
+.div_speed
+{
+    float: left;
+}
+
+.div_speed_img
+{
+    width: 200px;
+    border-radius: 100px;
+}
+
+#speed
+{
+    font-size: 30px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    border-radius: 0px;
+    margin: 15px;
+}
+
+.div_volume
+{
+    float: right;
+}
+
+.div_volume_img
+{
+    width: 200px;
+    border-radius: 100px;
+}
+
+#volume
+{
+    font-size: 30px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    border-radius: 0px;
+    margin: 15px;
+}
+
+.play_button
+{
+    font-size: 30px;
+    width: 100px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+canvas
+{
+    border: 5px solid white;
+    border-radius: 20px;
+    
+}
